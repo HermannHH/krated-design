@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "CD17DA22-42C6-4605-B755-FDFE63584C9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 128,
+    "width": 127,
+    "x": 33.08108108108104,
+    "y": 32.43243243243245
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "78DF4869-52B9-4B79-A96E-24A3000487F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32ABE43F-7135-449B-88EC-F077C8A7904A"
+    }
+  ],
+  "name": "chippie",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

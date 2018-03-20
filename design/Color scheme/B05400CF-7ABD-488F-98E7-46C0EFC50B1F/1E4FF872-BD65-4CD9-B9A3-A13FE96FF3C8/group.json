@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "1E4FF872-BD65-4CD9-B9A3-A13FE96FF3C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 159,
+    "width": 140,
+    "x": 139,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C91D51B9-7C0C-4053-87FA-1AD8DC4DC0E6"
+    },
+    {
+      "class": "text",
+      "id": "00E78BEB-9AEA-4B89-913D-6EB96FA664B3"
+    }
+  ],
+  "name": "Brink Pink - Standard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

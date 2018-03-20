@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "53DF0589-8694-483B-9A44-0EF594F8F540",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 159,
+    "width": 140,
+    "x": -1,
+    "y": 318
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8102B355-18D6-43B7-B080-9D282BE1513D"
+    },
+    {
+      "class": "text",
+      "id": "60697665-4443-4064-8CC6-5C4111811A63"
+    }
+  ],
+  "name": "Yellow sea - Standard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "B05400CF-7ABD-488F-98E7-46C0EFC50B1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 477,
+    "width": 699,
+    "x": -49,
+    "y": -72
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E03637BF-FE57-4223-B56E-CBE580E9130D"
+    },
+    {
+      "class": "group",
+      "id": "1E4FF872-BD65-4CD9-B9A3-A13FE96FF3C8"
+    },
+    {
+      "class": "group",
+      "id": "C04E9286-9478-4CA3-9BC1-E78671F76510"
+    },
+    {
+      "class": "group",
+      "id": "E9767AE3-6E2E-496C-A394-33318084EF97"
+    },
+    {
+      "class": "group",
+      "id": "9801B748-D80B-4207-9912-4C056CCC7EFA"
+    },
+    {
+      "class": "group",
+      "id": "E93AC0E4-789F-4E4E-8D3E-7F6E48FA8546"
+    },
+    {
+      "class": "group",
+      "id": "53DF0589-8694-483B-9A44-0EF594F8F540"
+    },
+    {
+      "class": "group",
+      "id": "5FF6E646-4D18-4AA9-9E66-0A4B3552E24D"
+    },
+    {
+      "class": "group",
+      "id": "D6E339B2-A644-433C-8E4D-9F1D94FED2AF"
+    },
+    {
+      "class": "group",
+      "id": "312D0439-D1A5-4B70-9293-038DEB6F9894"
+    },
+    {
+      "class": "group",
+      "id": "148E6132-9E71-4747-9C83-75E27186EC38"
+    },
+    {
+      "class": "group",
+      "id": "02C68DC3-ED5D-43DA-884E-5CCF5B74C139"
+    },
+    {
+      "class": "group",
+      "id": "A901BF61-C1B9-442B-9C9D-14594A5A9CDF"
+    }
+  ],
+  "name": "Palette",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
