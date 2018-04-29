@@ -20,6 +20,7 @@
     "x": 50.95775598770509,
     "y": 57.85419568248004
   },
+  "isClosed": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -84,6 +85,59 @@
       }
     ]
   },
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.72885310525495495, -0.023332316455610926}",
+      "curveMode": 4,
+      "curveTo": "{0.45388130475265542, 0.0021698999355800569}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.45388130475265542, 0.0021698999355800569}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.0233251830863053, 0.72884884489298063}",
+      "curveMode": 2,
+      "curveTo": "{0.97233821942777865, 0.17889578545348031}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.99783170125704168, 0.45387231517323012}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.27113329290288307, 1.0233323331154667}",
+      "curveMode": 2,
+      "curveTo": "{0.82107689390748284, 0.97232790033308536}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.54610509340518332, 0.99783011672427568}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-0.023249334115030881, 0.27115117176687514}",
+      "curveMode": 2,
+      "curveTo": "{0.027648178730059966, 0.8211042312063761}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.002154696900796324, 0.54603822002560343}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.45388130475265542, 0.0021698999355800569}",
+      "curveMode": 4,
+      "curveTo": "{0.17890950425035521, 0.027582634865748891}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.45388130475265542, 0.0021698999355800569}"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -16,8 +16,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "47AA277A-97E1-454F-84D6-DB1A4DD23926",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignSymbols": [
   ],
   "layerSymbols": {
@@ -26,9 +24,9 @@
     ]
   },
   "meta": {
-    "appVersion": "47",
-    "build": 45396,
-    "version": 95
+    "appVersion": "49.3",
+    "build": 51167,
+    "version": 101
   },
   "pages": [
     "Brand",
