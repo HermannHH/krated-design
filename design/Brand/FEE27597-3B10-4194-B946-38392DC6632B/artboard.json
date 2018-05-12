@@ -40,11 +40,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "31F4E862-B888-4B70-9244-8D6938AD8520"
+    },
+    {
+      "class": "group",
+      "id": "17416389-05A8-41E9-B83A-AED82316B15F"
+    },
+    {
+      "class": "group",
+      "id": "977EE566-9361-4A3D-9AA4-3D1E15A24D67"
     }
   ],
   "name": "Special",

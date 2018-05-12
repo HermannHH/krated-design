@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "76AFE636-63B8-48E2-BB2F-CB126F8EF250",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7AA2CE14-47D3-42AA-A78B-4A756B7A719B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "270C6FD0-D46D-468D-96A2-03909613788F",
+    "height": 194.9999999999997,
+    "width": 745.9999999999995,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B80BD4A1-75B6-4DF3-AB10-346FA0B619A7"
+    },
+    {
+      "class": "group",
+      "id": "68857424-6E8D-4E6F-BD04-27A8F676AA45"
+    }
+  ],
+  "name": "logo_concept_white",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2525D51D-F426-4E7F-B820-2D63E2E1FA5E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "17416389-05A8-41E9-B83A-AED82316B15F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 380,
+    "width": 746,
+    "x": 514,
+    "y": 70
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FBCB2001-E247-4631-AAF7-AE17B611BC83"
+    },
+    {
+      "class": "group",
+      "id": "A10986C4-BBE4-4692-8C3C-274587A14032"
+    },
+    {
+      "class": "group",
+      "id": "8E684462-FBEC-4481-B4AD-39622CF8AC78"
+    }
+  ],
+  "name": "special-powered-by-krated-2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

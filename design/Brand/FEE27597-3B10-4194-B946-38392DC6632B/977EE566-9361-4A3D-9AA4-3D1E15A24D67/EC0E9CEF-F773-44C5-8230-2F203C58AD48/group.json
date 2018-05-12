@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "EC0E9CEF-F773-44C5-8230-2F203C58AD48",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BFE6CE2B-ADB5-4E40-ABCF-DB9752161C35",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1033EEC6-3399-4AE4-9B01-43544F4B8499",
+    "height": 59,
+    "width": 633,
+    "x": 55,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B3637785-97FC-43C2-A2C2-6F4B3BD210E1"
+    }
+  ],
+  "name": "branded_mixed_logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7E15D44-9A66-49AB-874A-5A6D7FBD6139",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
