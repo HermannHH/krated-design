@@ -52,7 +52,7 @@
     },
     {
       "class": "group",
-      "id": "2C9512AE-B871-43DB-9D2B-56397C659BEC"
+      "id": "D7C06BA7-53A7-4C62-8629-6C5E832B9861"
     },
     {
       "class": "group",
@@ -61,6 +61,10 @@
     {
       "class": "group",
       "id": "BC547CD1-40EC-45F8-A2A4-674EF8318CFF"
+    },
+    {
+      "class": "group",
+      "id": "E0A28C50-B733-4A4B-9791-9ECFEB058C65"
     }
   ],
   "name": "Collaboration",
