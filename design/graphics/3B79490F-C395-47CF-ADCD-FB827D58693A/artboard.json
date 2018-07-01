@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 842,
-    "width": 595,
-    "x": 405,
-    "y": -393
+    "height": 498,
+    "width": 436,
+    "x": 484,
+    "y": -210
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,27 +44,7 @@
   "layers": [
     {
       "class": "group",
-      "id": "3924FB6C-DECB-4078-830C-3C37D287B337"
-    },
-    {
-      "class": "group",
-      "id": "58D0C923-74BA-4C9D-81E8-BB7A1139551A"
-    },
-    {
-      "class": "group",
-      "id": "D7C06BA7-53A7-4C62-8629-6C5E832B9861"
-    },
-    {
-      "class": "group",
-      "id": "6D4F8F75-8FC7-44AA-9A90-D0B354CC1DD1"
-    },
-    {
-      "class": "group",
-      "id": "BC547CD1-40EC-45F8-A2A4-674EF8318CFF"
-    },
-    {
-      "class": "group",
-      "id": "E0A28C50-B733-4A4B-9791-9ECFEB058C65"
+      "id": "2C55710E-9C0B-4EE9-9BDB-B9A392719A5C"
     }
   ],
   "name": "Collaboration",
