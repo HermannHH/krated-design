@@ -33,8 +33,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "35BA2733-89C0-47AE-8252-FC95E583AF0C"
+      "class": "artboard",
+      "id": "BA409FBF-3A31-4D7B-871B-18E0F590CB69"
+    },
+    {
+      "class": "artboard",
+      "id": "3B79490F-C395-47CF-ADCD-FB827D58693A"
     }
   ],
   "name": "graphics",

@@ -11,7 +11,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 3,
         "visibleScaleType": 0
       }
     ],
@@ -24,7 +24,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1CD9F9FC-8818-4AC8-BAE8-08F4AD32C574",
-    "height": 380,
+    "height": 220,
     "width": 746,
     "x": 514,
     "y": 353
@@ -34,15 +34,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "EC0E9CEF-F773-44C5-8230-2F203C58AD48"
-    },
-    {
-      "class": "group",
-      "id": "71A73DE4-952A-428E-8C1A-D142B111D525"
     },
     {
       "class": "group",
