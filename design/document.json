@@ -30,6 +30,7 @@
   },
   "pages": [
     "Brand",
+    "components-mocks",
     "graphics"
   ]
 }

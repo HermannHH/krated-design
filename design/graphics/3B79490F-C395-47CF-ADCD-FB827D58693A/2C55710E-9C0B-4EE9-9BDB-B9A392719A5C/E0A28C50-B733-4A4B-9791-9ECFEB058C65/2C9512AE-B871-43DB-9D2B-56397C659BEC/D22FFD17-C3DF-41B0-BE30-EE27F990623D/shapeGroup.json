@@ -16,10 +16,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0D1806B1-38F1-4ABC-80A6-FA9F4929881D",
-    "height": 18.72177187873331,
-    "width": 26.69203554153317,
-    "x": 25.80901173916914,
-    "y": 25.86873239436613
+    "height": 19,
+    "width": 27,
+    "x": 26.00000000000002,
+    "y": 26
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
