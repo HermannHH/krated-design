@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 842,
-    "width": 595,
-    "x": -290,
-    "y": -393
+    "height": 263,
+    "width": 301,
+    "x": -275,
+    "y": -334
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,10 +44,10 @@
   "layers": [
     {
       "class": "group",
-      "id": "20386A5D-10C4-45E2-B1AF-D2BD37BB141D"
+      "id": "89B0133E-AF49-404A-809D-78071B0BA89B"
     }
   ],
-  "name": "zen",
+  "name": "Catalogue",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
