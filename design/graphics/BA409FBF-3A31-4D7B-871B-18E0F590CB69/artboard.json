@@ -26,7 +26,7 @@
     "y": -393
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -40,14 +40,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "35BA2733-89C0-47AE-8252-FC95E583AF0C"
+      "id": "20386A5D-10C4-45E2-B1AF-D2BD37BB141D"
     }
   ],
-  "name": "SupplyChainForHumans",
+  "name": "zen",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

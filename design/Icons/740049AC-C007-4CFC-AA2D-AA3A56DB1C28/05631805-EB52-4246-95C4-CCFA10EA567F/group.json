@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "05631805-EB52-4246-95C4-CCFA10EA567F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 100,
+    "width": 100,
+    "x": 316,
+    "y": 110
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "09F8450D-5AFF-48B7-BFDD-985F3D17C5E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0495BBF0-F56B-42D4-87BF-B58DAAADEAAA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0AEF85B3-8935-44AE-9758-13C8541A9850"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "966B7BE8-26A4-46D3-B5BD-CC832D593A62"
+    },
+    {
+      "class": "group",
+      "id": "59111A5E-16FF-4648-80F5-E918A54C6FEE"
+    }
+  ],
+  "name": "friends",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
