@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "85B52D0B-580B-483C-B82B-C948C5B7ED3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 124,
+    "width": 101,
+    "x": 130,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2C7C0539-385B-4732-894D-70331E4B7D09"
+    },
+    {
+      "class": "text",
+      "id": "2FE10A1F-CD79-48C5-85AE-BA0D6F9F1F15"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7D3A641E-5133-4CE5-A3ED-052957313FB0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA81007F-FD88-482B-B27C-47B30FE88D76"
+    },
+    {
+      "class": "group",
+      "id": "3FA2959D-F3C6-4D17-A147-AFEEEF48812A"
+    }
+  ],
+  "name": "PlaceholderCard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
