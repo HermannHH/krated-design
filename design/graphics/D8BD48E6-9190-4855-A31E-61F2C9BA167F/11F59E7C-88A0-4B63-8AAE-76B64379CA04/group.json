@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "2C55710E-9C0B-4EE9-9BDB-B9A392719A5C",
+  "do_objectID": "11F59E7C-88A0-4B63-8AAE-76B64379CA04",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,7 +10,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 5,
         "visibleScaleType": 0
       }
     ],
@@ -22,9 +22,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 496,
-    "width": 437,
-    "x": 0,
+    "height": 122,
+    "width": 285,
+    "x": 4,
     "y": 2
   },
   "hasClickThrough": false,
@@ -32,34 +32,22 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "3924FB6C-DECB-4078-830C-3C37D287B337"
+      "id": "E1BEB810-A5DF-457E-AFB3-E7502BD9F61E"
     },
     {
       "class": "group",
-      "id": "58D0C923-74BA-4C9D-81E8-BB7A1139551A"
+      "id": "E09D9E2D-080A-4FA9-8B42-82DEBB25EE01"
     },
     {
       "class": "group",
-      "id": "D7C06BA7-53A7-4C62-8629-6C5E832B9861"
-    },
-    {
-      "class": "group",
-      "id": "6D4F8F75-8FC7-44AA-9A90-D0B354CC1DD1"
-    },
-    {
-      "class": "group",
-      "id": "BC547CD1-40EC-45F8-A2A4-674EF8318CFF"
-    },
-    {
-      "class": "group",
-      "id": "E0A28C50-B733-4A4B-9791-9ECFEB058C65"
+      "id": "0BA06DDB-7024-470F-B166-55A2FE3969F3"
     }
   ],
-  "name": "main",
+  "name": "image",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
